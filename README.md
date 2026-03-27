@@ -27,3 +27,19 @@ Data was imported using a URL and transformed using Power Query.
 
 ## Conclusion
 This project helped me gain hands-on experience in data analysis and visualization using Power BI.
+
+### Main Page
+![Main](Main%20Page.png)
+
+### Detail Page
+![Detail](Detail%20Page.png)
+
+### Drill Through
+![Drill](Drill%20through%20Page.png)
+
+### Data Modelling
+![Model](Show%20Data%20Modelling.png)
+
+## Project File
+[Download PBIX](anuu.pbix)
+
