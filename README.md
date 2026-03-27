@@ -25,9 +25,6 @@ Data was imported using a URL and transformed using Power Query.
 - Analyzed sales trends
 - Found low-performing areas
 
-## Conclusion
-This project helped me gain hands-on experience in data analysis and visualization using Power BI.
-
 ### Main Page
 ![Main](Main%20Page.png)
 
@@ -42,4 +39,7 @@ This project helped me gain hands-on experience in data analysis and visualizati
 
 ## Project File
 [Download PBIX](anuu.pbix)
+
+## Conclusion
+This project helped me gain hands-on experience in data analysis and visualization using Power BI.
 
